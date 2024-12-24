@@ -10,7 +10,7 @@ const quiz = [
     }, {
         question: "Who is the Founder of MindChanger?",
         ans1text: "M.Talha",
-        ans2text: "Mehwish",
+        ans2text: "Ali",
         ans3text: "Aftab",
         ans4text: "Ubaid",
         answer: "M.Talha",
@@ -24,12 +24,12 @@ const quiz = [
         answer: "Don't need to declare data type of variable",
     },
     {
-        question: "Who is the Founder of MindChanger?",
-        ans1text: "M.Talha",
-        ans2text: "Mehwish",
-        ans3text: "Aftab",
-        ans4text: "Ubaid",
-        answer: "M.Talha",
+        question: "Who is the Toughest Man on the Planet Earth..?",
+        ans1text: "David Goggins",
+        ans2text: "Elon Musk",
+        ans3text: "Zuckerberg",
+        ans4text: "Billgates",
+        answer: "David Goggins",
 
     }
 ]
